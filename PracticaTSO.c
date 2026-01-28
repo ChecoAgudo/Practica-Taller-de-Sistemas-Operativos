@@ -1,6 +1,6 @@
 /*
  * Practica
- *Integrantes: Rodrigo Checo Agudo y Diego Aimar Calahuana Choque
+ *Integrantes: Rodrigo y Diego Aimar
  *Fecha: 29 de enero de 2026
  *Descripcion: Simulador de gestion de memoria particionada fija
  *Materia: Taller de Sistemas Operativos
